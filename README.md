@@ -27,3 +27,8 @@ features not available in other apps (on purpose, anyway), such as:
 
 This app enables work on End-to-end integration scripts even before your developers produce custom code.
 
+Additional information include:
+
+* <a target="_blank" href="https://github.com/jondot/awesome-react-native">
+  An "awesome" type curated list of React Native components, news, tools, and learning material</a>
+
