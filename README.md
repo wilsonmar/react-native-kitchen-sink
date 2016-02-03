@@ -6,13 +6,14 @@ this repo provides a full experience:
 
    * Video splash screen that works offline.
    * Login via Facebook, Twitter, Google, Github.
-   * Two-factor authentication
-   * API calls to Twillo for SMS, and various other data sources.
+   * Two-factor authentication with signing and data encryption
+   * API calls to Twillo for SMS, and various other data sources
    * User preferences (color, greeting, etc.)
-   * A "Kitchen Sink" of every known GUI element
-     (color picker, menus, lists, spinners, etc.)
+   * A "Kitchen Sink" of known GUI elements
+     (color picker, menus, lists, spinners, carosels, etc.)
 
-This means <strong>developers</strong> can leverage this to focus on content for their killer app.
+<strong>Developers</strong> can leverage this to focus on content for their own app,
+not waste time on plumbing code.
 
 Courses that explain how to program explain this source code.
 In fact, seminars and support is how we fund this app's development.
